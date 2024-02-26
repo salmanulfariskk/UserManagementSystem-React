@@ -1,0 +1,28 @@
+
+header {
+    background-color: #27293d;
+    padding: 20px;
+    color: #fff;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .right-section {
+    position: relative;
+}
+
+.header-right {
+    display: flex;
+}
+
+.display-name {
+    margin: 10px 10px 0 0;
+}
+
+.logout-btn {
+    height: 35px;
+}
